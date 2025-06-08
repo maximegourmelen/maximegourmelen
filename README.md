@@ -1,9 +1,9 @@
 <h1>Hi, I'm Maxime! </h1>
 
-<h2>👨‍💻 Quant Projects:</h2>
+<h2>👨‍💻 Machine Learning Projects Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [MNIST Dataset Neural Network](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
 
