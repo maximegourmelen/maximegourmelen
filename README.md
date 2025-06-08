@@ -3,7 +3,7 @@
 <h2>👨‍💻 Machine Learning Projects Projects:</h2>
 
 - <b>Python</b>
-  - [MNIST Dataset Neural Network](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [MNIST Dataset Neural Network](https://github.com/maximegourmelen/MNIST-neural-network)
 
 <h2> 🤳 Connect with me:</h2>
 
