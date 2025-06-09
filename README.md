@@ -1,6 +1,6 @@
 <h1>Hi, I'm Maxime! </h1>
 
-<h2>👨‍💻 Machine Learning Projects Projects:</h2>
+<h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Python</b>
   - [MNIST Dataset Neural Network](https://github.com/maximegourmelen/MNIST-neural-network)
