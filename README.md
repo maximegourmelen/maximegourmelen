@@ -1,14 +1,20 @@
 <h1>Hi, I'm Maxime! </h1>
 
-<h2>👨‍💻 Machine Learning Projects:</h2>
 
-- <b>Python</b>
+<h2>Python:</h2>
+
+
+- <b>👨‍💻 Machine Learning Projects:</b>
   - [MNIST Dataset Neural Network](https://github.com/maximegourmelen/MNIST-neural-network)
+ 
+- <b>🎲 Strategy:</b>
+  - [Cluedo Solving Tool](https://github.com/maximegourmelen/board-game-solver-cluedo)
+    
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MaximeGourmelen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/maxjg
