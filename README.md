@@ -10,6 +10,8 @@
 - <b>🎲 Strategy:</b>
   - [Cluedo Solving Tool](https://github.com/maximegourmelen/board-game-solver-cluedo)
     
+<h2>C++ (coming soon...)</h2>
+
 
 <h2> 🤳 Connect with me:</h2>
 
