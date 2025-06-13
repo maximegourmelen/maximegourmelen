@@ -4,7 +4,7 @@
 <h2>Python:</h2>
 
 
-- <b>👨‍💻 Machine Learning Projects:</b>
+- <b>👨‍💻 Machine Learning:</b>
   - [MNIST Dataset Neural Network](https://github.com/maximegourmelen/MNIST-neural-network)
  
 - <b>🎲 Strategy:</b>
