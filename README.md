@@ -1,36 +1,27 @@
-<h1>Hi, I'm Maxime! </h1>
+# 👋 Hi there, I'm Maxime Gourmelen!
 
+Welcome to my GitHub profile! I'm passionate about programming, machine learning, and creating tools to solve interesting problems.
 
-<h2>Python:</h2>
+## 🛠️ Projects
 
+### 🐍 Python Projects
 
-- <b>👨‍💻 Machine Learning:</b>
-  - [MNIST Dataset Neural Network](https://github.com/maximegourmelen/MNIST-neural-network)
- 
-- <b>🎲 Strategy:</b>
-  - [Cluedo Solving Tool](https://github.com/maximegourmelen/board-game-solver-cluedo)
-    
-<h2>C++ (coming soon...)</h2>
+#### 🤖 Machine Learning
+- **[MNIST Dataset Neural Network](https://github.com/maximegourmelen/MNIST-neural-network)**  
+  A neural network implementation for classifying handwritten digits from the MNIST dataset.
 
+#### 🎲 Strategy Games
+- **[Cluedo Solving Tool](https://github.com/maximegourmelen/board-game-solver-cluedo)**  
+  A strategic assistant tool for solving the classic board game Cluedo.
 
-<h2> 🤳 Connect with me:</h2>
+### ⏳ Coming Soon...
+- **C++ Projects** (Stay tuned for exciting new additions!)
 
+## 🌐 Connect With Me
 
-[<img align="left" alt="MaximeGourmelen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxjg)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maximegourmelen)
 
+---
 
-[linkedin]: https://linkedin.com/in/maxjg
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ From [Maxime Gourmelen](https://github.com/maximegourmelen)
