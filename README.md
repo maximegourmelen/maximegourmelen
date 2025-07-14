@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I'm passionate about programming, machine learning
 #### 🤖 Machine Learning
 - **[MNIST Dataset Neural Network](https://github.com/maximegourmelen/MNIST-neural-network)**  
   A neural network implementation for classifying handwritten digits from the MNIST dataset.
+- **More soon..**
+
+#### Trading
+- **Pairs Trading Backtest coming soon...**
 
 #### 🎲 Strategy Games
 - **[Cluedo Solving Tool](https://github.com/maximegourmelen/board-game-solver-cluedo)**  
