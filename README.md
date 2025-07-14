@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about programming, machine learning
   A neural network implementation for classifying handwritten digits from the MNIST dataset.
 - **More soon..**
 
-#### Trading
+#### 📈 Trading
 - **Pairs Trading Backtest coming soon...**
 
 #### 🎲 Strategy Games
